@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMSAPI", "TMSAPI\TMSAPI.csproj", "{77498FC3-BAE0-484E-B04A-0A9519861120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77498FC3-BAE0-484E-B04A-0A9519861120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77498FC3-BAE0-484E-B04A-0A9519861120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77498FC3-BAE0-484E-B04A-0A9519861120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77498FC3-BAE0-484E-B04A-0A9519861120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A8EF7C7-8AA4-4F74-BDFD-42F36B92B7D3}
+	EndGlobalSection
+EndGlobal
